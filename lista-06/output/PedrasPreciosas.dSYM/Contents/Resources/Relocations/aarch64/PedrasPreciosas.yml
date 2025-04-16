@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yurisantana/Programming/tecnicas/lista-06/output/PedrasPreciosas'
+relocations:     []
+...
